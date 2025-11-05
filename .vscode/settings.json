@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "node_modules": true,
+        "nul": true,
+        "package-lock.json": true,
+        "package.json": true,
+        ".vscode": true,
+        "weerwolven_whatsapp": true,
+        ".wwebjs_auth": true,
+        ".wwebjs_cache": true
+    },
+    "search.exclude": {
+        "node_modules": true,
+        ".vscode": true,
+        "weerwolven_whatsapp": true,
+        ".wwebjs_auth": true,
+        ".wwebjs_cache": true
+    }
+}

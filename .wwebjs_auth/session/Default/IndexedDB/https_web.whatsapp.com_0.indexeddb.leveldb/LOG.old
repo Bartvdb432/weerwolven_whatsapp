@@ -1,0 +1,53 @@
+2025/11/05-20:32:37.918 26922 Reusing MANIFEST /home/bartv/weerwolven_whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-009595
+2025/11/05-20:32:37.927 26922 Recovering log #15572
+2025/11/05-20:32:37.934 26922 Reusing old log /home/bartv/weerwolven_whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/015572.log 
+2025/11/05-20:32:39.499 26922 Level-0 table #15605: started
+2025/11/05-20:32:39.591 26922 Level-0 table #15605: 179764 bytes OK
+2025/11/05-20:32:39.595 26922 Delete type=0 #15572
+2025/11/05-20:32:39.595 26920 Manual compaction at level-0 from ' w\x02\x00\x00\x00' @ 72057594037927935 : 1 .. ' x\x02\x00\x00\x00' @ 0 : 0; will stop at ' w\x02\x00\x00\x05' @ 17120655 : 1
+2025/11/05-20:32:39.595 26920 Compacting 1@0 + 0@1 files
+2025/11/05-20:32:39.602 26920 Generated table #15606@0: 3200 keys, 69386 bytes
+2025/11/05-20:32:39.606 26920 Generated table #15607@0: 145 keys, 7274 bytes
+2025/11/05-20:32:39.609 26920 Generated table #15608@0: 65 keys, 1859 bytes
+2025/11/05-20:32:39.609 26920 Compacted 1@0 + 0@1 files => 78519 bytes
+2025/11/05-20:32:39.611 26920 compacted to: files[ 0 3 41 0 0 0 0 ]
+2025/11/05-20:32:39.612 26920 Delete type=2 #15605
+2025/11/05-20:32:39.612 26922 Manual compaction at level-0 from ' w\x02\x00\x00\x05' @ 17120655 : 1 .. ' x\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/05-20:32:41.529 26922 Compacting 1@1 + 10@2 files
+2025/11/05-20:32:42.080 26922 Generated table #15609@1: 29483 keys, 2266971 bytes
+2025/11/05-20:32:42.494 26922 Generated table #15610@1: 25741 keys, 2269278 bytes
+2025/11/05-20:32:42.698 26922 Generated table #15611@1: 29626 keys, 2253395 bytes
+2025/11/05-20:32:42.935 26922 Generated table #15612@1: 18610 keys, 2201223 bytes
+2025/11/05-20:32:43.052 26922 Generated table #15613@1: 9363 keys, 2131740 bytes
+2025/11/05-20:32:43.169 26922 Generated table #15614@1: 7874 keys, 2128232 bytes
+2025/11/05-20:32:43.295 26922 Generated table #15615@1: 24505 keys, 2152343 bytes
+2025/11/05-20:32:43.527 26922 Generated table #15616@1: 110627 keys, 2264820 bytes
+2025/11/05-20:32:43.708 26922 Generated table #15617@1: 102123 keys, 2251690 bytes
+2025/11/05-20:32:43.886 26922 Generated table #15618@1: 102104 keys, 2252934 bytes
+2025/11/05-20:32:43.889 26922 Generated table #15619@1: 100 keys, 2291 bytes
+2025/11/05-20:32:43.889 26922 Compacted 1@1 + 10@2 files => 22174917 bytes
+2025/11/05-20:32:43.894 26922 compacted to: files[ 0 2 42 0 0 0 0 ]
+2025/11/05-20:32:43.895 26922 Delete type=2 #15585
+2025/11/05-20:32:43.895 26922 Delete type=2 #15607
+2025/11/05-20:32:43.895 26922 Delete type=2 #15583
+2025/11/05-20:32:43.895 26922 Delete type=2 #15584
+2025/11/05-20:32:43.895 26922 Delete type=2 #15579
+2025/11/05-20:32:43.895 26922 Delete type=2 #15578
+2025/11/05-20:32:43.895 26922 Delete type=2 #15577
+2025/11/05-20:32:43.895 26922 Delete type=2 #15581
+2025/11/05-20:32:43.895 26922 Delete type=2 #15582
+2025/11/05-20:32:43.895 26922 Delete type=2 #15586
+2025/11/05-20:32:43.895 26922 Delete type=2 #15580
+2025/11/05-20:32:43.952 26922 Compacting 1@1 + 9@2 files
+2025/11/05-20:32:44.179 26922 Generated table #15620@1: 86688 keys, 2237277 bytes
+2025/11/05-20:32:44.374 26922 Generated table #15621@1: 97854 keys, 2248817 bytes
+2025/11/05-20:32:44.567 26922 Generated table #15622@1: 79743 keys, 2325850 bytes
+2025/11/05-20:32:44.714 26922 Generated table #15623@1: 22421 keys, 2198985 bytes
+2025/11/05-20:32:44.917 26922 Generated table #15624@1: 2963 keys, 2159907 bytes
+2025/11/05-20:32:45.051 26922 Generated table #15625@1: 3033 keys, 2162797 bytes
+2025/11/05-20:32:45.186 26922 Generated table #15626@1: 3012 keys, 2168930 bytes
+2025/11/05-20:32:45.314 26922 Generated table #15627@1: 3132 keys, 2164716 bytes
+2025/11/05-20:32:45.486 26922 Generated table #15628@1: 4150 keys, 2156834 bytes
+2025/11/05-20:32:45.496 26922 Generated table #15629@1: 26 keys, 13624 bytes
+2025/11/05-20:32:45.496 26922 Compacted 1@1 + 9@2 files => 19837737 bytes
+2025/11/05-20:32:45.500 26922 compacted to: files[ 0 1 43 0 0 0 0 ]

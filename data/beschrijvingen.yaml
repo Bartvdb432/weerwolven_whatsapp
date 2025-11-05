@@ -1,0 +1,102 @@
+algemeen: |
+  Welkom bij weerwolven van wakkerdam. Hieronder volgen enkele commando's om je op weg te helpen met het spelen.
+
+  *Stemmen*
+  Tijdens de stemming kun je stemmen op een burgemeester of executie. Dit doe je met het volgende commando:
+  ```/stem <naam>```
+
+  Je laatst gestuurde stem is degene die uiteindelijk telt.
+
+  Als je de burgemeester bent en je krijgt de opdracht om de doorslag te geven bij de stemming, dan typ je:
+  ```/doorslag <naam>```
+
+  *Informatie*
+  Wil je extra informatie over je rol? Typ dan:
+  ```/info rol```
+
+  Wil je deze informatie nog een keer? Typ dan:
+  ```/info algemeen```
+
+  Wil je zien welke acties je hebt uitgevoerd? Typ dan:
+  ```/acties```
+
+  *Nachtacties*
+  Wil je een nachtactie ongedaan maken om deze opnieuw in te voeren? Typ dan:
+  ```/reset <uitgevoerd commando>```
+
+  *Hulp*
+  Heb je een vraag of wil je hulp? Typ dan:
+  ```/help <beschrijving probleem of vraag>```
+
+
+
+ijzersmid: |
+  Jij bent de ijzersmid!
+
+  Om een schild of zwaard te maken, typ je:
+  ```/maken```
+
+  Om een schild of zwaard weg te geven, typ je:
+  ```/geven <naam>```
+
+  Wil je weten welk voorwerp je momenteel hebt om weg te geven? Typ dan:
+  ```/inventaris```
+
+blocker: |
+  Jij bent de blocker!
+
+  Om de actie van een speler te blokkeren, typ je:
+  ```/blokkeer <naam>```
+
+eigen_rechter: |
+  Jij bent de eigen rechter!
+
+  Om de burgemeester af te zetten, typ je:
+  ```/afzetten <naam nieuwe kandidaat>```
+
+  Om de stemming te manipuleren, typ je:
+  ```/stemming <te stemmen persoon>```
+
+hoer: |
+  Jij bent de hoer!
+
+  Om bij iemand de nacht door te brengen, typ je:
+  ```/verblijven <naam>```
+
+jager: |
+  Jij bent de jager!
+
+  Om na je dood iemand neer te schieten, typ je:
+  ```/schieten <naam>```
+
+stiekeme_kind: |
+  Jij bent het stiekeme kind!
+
+  Om te spieken bij de wolven, typ je:
+  ```/spieken```
+
+waarzegger: |
+  Jij bent de waarzegger!
+
+  Om iemands aura te lezen, typ je:
+  ```/lezen <naam>```
+
+priester: |
+  Jij bent de priester!
+
+  Om wijwater op iemand te gooien, typ je:
+  ```/gooien <naam>```
+
+dr_frankenstein: |
+  Helaas! Jouw rol is nog niet volledig toegevoegd.
+  Je bent compleet nutteloos. Vraag Bart voor een andere rol.
+
+gewonde: |
+  Helaas! Jouw rol is nog niet volledig toegevoegd.
+  Je bent compleet nutteloos. Vraag Bart voor een andere rol.
+
+robbie_rotten: |
+  Jij bent Robbie Rotten!
+
+  Om met iemand te wisselen, typ je:
+  ```/vermommen <naam> ```
